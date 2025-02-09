@@ -1,3 +1,6 @@
 [submodule "firstrepo"]
 	path = firstrepo
 	url = https://github.com/Bubai1996/firstrepo.git
+[submodule "child-repo"]
+	path = child-repo
+	url = https://github.com/Bubai1996/firstrepo.git
